@@ -24,3 +24,7 @@ VirusTotalでソースコードの状態にてウィルススキャンした結�
 もちろんのことながらexe化するとAntiVirusでは良い結果を示しません。
 信頼できるNortnなどの大手企業のデータでは0ウィルスであることが証明されています。
 https://www.virustotal.com/gui/file/bf70264e747524d2ee52745eed23e8b98e771fe9a0e1f6b7a43a9ea1d61568a7/detection
+
+
+# 紹介動画
+https://www.youtube.com/watch?v=FRDCKDwHlkI
