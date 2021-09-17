@@ -28,9 +28,3 @@ https://www.virustotal.com/gui/file/bf70264e747524d2ee52745eed23e8b98e771fe9a0e1
 
 # 紹介動画
 <s>https://www.youtube.com/watch?v=FRDCKDwHlkI</s><br>
-
-The introductory video has been deleted due to Youtube regulations, so I uploaded it here.
-
-YouTubeの規制により紹介動画が削除されたので、こちらにアップロードしました。
-
-https://streamable.com/8zzhy2
